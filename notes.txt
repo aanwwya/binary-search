@@ -35,3 +35,10 @@ basic logic for bs
                 repeat
                     ↓
                 nothing left → return -1
+
+
+
+
+
+first occurrence → found → search left
+last occurrence → found → search right
